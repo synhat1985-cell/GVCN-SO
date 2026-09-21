@@ -1,23 +1,8 @@
-# OS
+node_modules/
+build/
+dist/
+coverage/
 .DS_Store
-
-# Python
-.venv/
-.python-version
-__pycache__/
-.pytest_cache/
-
-# Secrets
-.env
-
-# Project
-temp/
-research/
-
-# Local agent tooling
-.claude/
-.agents/
-
-skills-lock.json
-
-uv.lock
+*.log
+.env*
+!.env.example

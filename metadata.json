@@ -1,0 +1,6 @@
+{
+  "name": "GVCN SỐ – HỒ SỸ NHẤT – LỚP 5B",
+  "description": "Trợ lý chủ nhiệm thông minh dành cho giáo viên tiểu học lớp 5B, trường Tiểu học Kim Đồng",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
